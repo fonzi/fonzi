@@ -15,7 +15,10 @@ I'm looking for help with learning Assembly. Most I've done is MIPS and a compil
 Ask me about software testing and automtion. 
 How to reach me: I'm sure you'll figure it out. 🔎
 
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+Thanks for reading! 
+See you on the other side.
+
+![myfile](https://i.gifer.com/S7hN.gif)
 
 
 <!--
