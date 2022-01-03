@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://fonzi.xyz"><img src="fonzi.gif"/></a>
+</p>
+
 ### Hi there 👋
 
 Thanks for stopping by. I'm Fonzi. I'm a software engineer in test. I do mostly automated testing with Selenium and API testing with RestSharp or Postman and newman. 
@@ -16,9 +20,7 @@ Ask me about software testing and automtion.
 How to reach me: I'm sure you'll figure it out. 🔎
 
 Thanks for reading! 
-See you on the other side.
 
-![myfile](https://i.gifer.com/S7hN.gif)
 
 
 <!--
