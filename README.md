@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fonzi.xyz"><img src="fonzi.gif"/></a>
+  <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
 ### Hi there 👋
