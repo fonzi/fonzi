@@ -8,7 +8,7 @@
 Thanks for stopping by. I'm Fonzi. I'm a software engineer in test. I do mostly automated testing with Selenium and API testing with RestSharp (or any other OOP library) or Postman and Newman. 
 Also I've done a lot of work in the DevOps realm lately. 
 
-I love technology even tough I think it's bloat. Well most of it. 
+I love technology although I think it's bloat. Well most of it. 
 Recently I took a challenge to write a minimalist website with just HTML and CSS no JavaScript. 
 You can find that here Go to [fonzi.xyz](https://fonzi.xyz)
 Or if you fancy to use a private search engine go to my [Searx](https://searx.fonzi.xyz) instance. I collect no logs. I promise. 
