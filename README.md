@@ -20,7 +20,7 @@ Or if you fancy to use a private search engine go to my [Searx](https://searx.fo
 - I'm looking for help with learning Assembly. Most I've done is MIPS and a compiler from Pascal to MIPS it was
 terrible. You can laugh at my code it's public. 😅
 - Ask me about software testing and automation. 
-- How to reach me: I'm sure you'll figure it out. 🔎
+- How to reach me: fonzi@fonzi.xyz
 
 Thanks for reading! 
 
