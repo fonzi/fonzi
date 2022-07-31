@@ -37,10 +37,10 @@ Thanks for reading!
 
 <div align="center">
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=gotham" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=react-dark" />
   </a>
   <br>
 </div>
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=react-dark)
