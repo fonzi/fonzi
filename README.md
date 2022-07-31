@@ -28,31 +28,19 @@ Thanks for reading!
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
   </a>
+  <br>
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=github_dark" />
   </a>
+  <br>
 </div>
 
 <div align="center">
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=gotham" />
   </a>
+  <br>
 </div>
 
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
-
-<!--
-**fonzi/fonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
