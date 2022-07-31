@@ -26,10 +26,10 @@ terrible. You can laugh at my code it's public. 😅
 Thanks for reading! 
 <div align="center">
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
   </a>
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=github_dark" />
   </a>
 </div>
 
