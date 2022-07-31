@@ -36,7 +36,7 @@ Thanks for reading!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
 
 <!--
 **fonzi/fonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
