@@ -37,9 +37,9 @@ Thanks for reading!
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=gotham" />
   </a>
-
 </div>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)](https://git.io/streak-stats) -->
+
+
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
 
 <!--
