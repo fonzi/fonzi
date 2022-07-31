@@ -3,7 +3,14 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
-![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
+<a href="#">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)" />
+</a>
+<a href="#">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&show_icons=true&theme=radical)" />
+</a>
+
+
 ### Hi there 👋
 
 Thanks for stopping by. I'm Fonzi. I'm a software engineer in test. I do mostly automated testing with Selenium and API testing with RestSharp (or any other OOP library) or Postman and Newman. 
