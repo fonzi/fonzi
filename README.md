@@ -7,9 +7,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
 </a>
 
+<!--
 ![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&show_icons=true&theme=radical)
-
+-->
 
 
 ### Hi there 👋
