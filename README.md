@@ -3,7 +3,7 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
-<a href="#">
+<a href="https://github.com/fonzi">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)" />
 </a>
 <a href="#">
