@@ -3,6 +3,8 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
+![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&show_icons=true&theme=radical)
 ### Hi there 👋
 
 Thanks for stopping by. I'm Fonzi. I'm a software engineer in test. I do mostly automated testing with Selenium and API testing with RestSharp (or any other OOP library) or Postman and Newman. 
