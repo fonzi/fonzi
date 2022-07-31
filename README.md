@@ -3,9 +3,6 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
-<a href="https://github.com/fonzi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
-</a>
 
 <!--
 ![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
@@ -34,7 +31,9 @@ terrible. You can laugh at my code it's public. 😅
 
 Thanks for reading! 
 
-
+<a href="https://github.com/fonzi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
+</a>
 
 <!--
 **fonzi/fonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
