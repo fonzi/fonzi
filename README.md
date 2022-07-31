@@ -3,8 +3,7 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
-[![Fonzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical))
-
+[![Fonzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonzi)](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
 
 
 
