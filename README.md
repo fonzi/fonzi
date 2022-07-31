@@ -33,9 +33,13 @@ Thanks for reading!
   </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)]
+<div align="center">
+  <a href="https://github.com/fonzi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
+  </a>
 
-
+</div>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)](https://git.io/streak-stats) -->
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
 
 <!--
