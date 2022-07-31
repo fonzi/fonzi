@@ -35,7 +35,7 @@ Thanks for reading!
 
 <div align="center">
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=gotham" />
   </a>
 
 </div>
