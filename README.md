@@ -4,12 +4,6 @@
 </p>
 
 
-<!--
-![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&show_icons=true&theme=radical)
--->
-
-
 ### Hi there 👋
 
 Thanks for stopping by. I'm Fonzi. I'm a software engineer in test. I do mostly automated testing with Selenium and API testing with RestSharp (or any other OOP library) or Postman and Newman. 
@@ -38,8 +32,12 @@ Thanks for reading!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=radical" />
   </a>
 </div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)](https://git.io/streak-stats)
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
+
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+
 <!--
 **fonzi/fonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
