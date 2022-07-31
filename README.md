@@ -34,6 +34,9 @@ Thanks for reading!
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
   </a>
+  <a href="https://github.com/fonzi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=radical" />
+  </a>
 </div>
 
 <!--
