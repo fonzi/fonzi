@@ -37,7 +37,7 @@ Thanks for reading!
 
 <div align="center">
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=react-dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=tokyonight_duo" />
   </a>
   <br>
 </div>
