@@ -38,7 +38,8 @@ Thanks for reading!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=radical" />
   </a>
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzi&theme=tokyonight_duo)](https://git.io/streak-stats)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=gotham)
 <!--
 **fonzi/fonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
