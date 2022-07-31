@@ -26,21 +26,18 @@ terrible. You can laugh at my code it's public. 😅
 Thanks for reading! 
 <div align="center">
   <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
-  </a>
-  <br>
-  <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=github_dark" />
   </a>
-  <br>
 </div>
-
 <div align="center">
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=tokyonight_duo" />
   </a>
-  <br>
 </div>
-
+<div align="center">
+  <a href="https://github.com/fonzi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=github_dark" />
+  </a>
+</div>
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=react-dark)
