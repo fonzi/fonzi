@@ -3,6 +3,10 @@
   <a href="https://fonzi.xyz"><img src="https://github.com/fonzi/fonzi.xyz/raw/main/fonzi.gif"/></a>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical" />
+</a>
+
 ![Fonzi's Github Status](https://github-readme-stats.vercel.app/api?username=fonzi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&show_icons=true&theme=radical)
 
