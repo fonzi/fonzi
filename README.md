@@ -24,11 +24,7 @@ terrible. You can laugh at my code it's public. 😅
 - How to reach me: fonzi@fonzi.xyz
 
 Thanks for reading! 
-<div align="center">
-  <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzi&layout=compact&theme=github_dark" />
-  </a>
-</div>
+
 <div align="center">
   <a href="https://github.com/fonzi">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=tokyonight_duo" />
