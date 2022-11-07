@@ -31,5 +31,3 @@ Thanks for reading!
   </a>
 </div>
 
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonzi&theme=react-dark)
