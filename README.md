@@ -14,7 +14,6 @@ Recently I took a challenge to write a minimalist website with just HTML and CSS
 You can find that here Go to [fonzi.xyz](https://fonzi.xyz)
 Or if you fancy to use a private search engine go to my [Searx](https://searx.fonzi.xyz) instance. I collect no logs. I promise. 
 
-- I'm also currently working on docker with old windows technology (yuck 🤢) for my day job. 
 - I'm currently learning C and Python. I would like to go down the path of assembly and have a full stack of 
 `Assembly -> C -> Python` all built on top of each other in that order. 
 - I'm looking for collaborate on any FOSS projects that need help and could use my skill set. 
