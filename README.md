@@ -23,10 +23,3 @@ terrible. You can laugh at my code it's public. 😅
 - How to reach me: me@fonzi.xyz
 
 Thanks for reading! 
-
-<div align="center">
-  <a href="https://github.com/fonzi">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonzi&theme=tokyonight_duo" />
-  </a>
-</div>
-
