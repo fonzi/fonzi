@@ -14,7 +14,7 @@ Recently I took a challenge to write a minimalist website with just HTML and CSS
 You can find that here Go to [fonzi.xyz](https://fonzi.xyz)
 Or if you fancy to use a private search engine go to my [Searx](https://searx.fonzi.xyz) instance. I collect no logs. I promise. 
 
-- I'm currently learning C and Python. I would like to go down the path of assembly and have a full stack of 
+- I'm currently learning C and Python(It's a shit language). I would like to go down the path of assembly and have a full stack of 
 `Assembly -> C -> Python` all built on top of each other in that order. 
 - I'm looking for collaborate on any FOSS projects that need help and could use my skill set. 
 - I'm looking for help with learning Assembly. Most I've done is MIPS and a compiler from Pascal to MIPS it was
