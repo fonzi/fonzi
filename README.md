@@ -43,7 +43,6 @@ no logs, no tracking, no gimmicks.
 Ask me about **software testing**, **automation**, or anything that breaks in CI/CD.  
 me@fonzi.xyz
 
-
-
-                    [🔍] · [🐛] · [🚢]
-
+<p align="center">
+  [🔍] · [🐛] · [🚢]
+</p>
